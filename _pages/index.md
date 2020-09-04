@@ -1,40 +1,25 @@
 ---
-title: Haley Raizes
-subtitle: a blogfolio
-description: A blog and portfolio to share all things that make me smile
+title: ''
+subtitle: ''
+description: A blogfolio to share all things that make me smile, including running many miles
 featured_image: /images/haley/haley.jpg
 ---
 
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
+## At A Glance
+The name of my website has two interpretations: Haley Smiles and Haley's Miles. I have collected many "hats" over the years and this website is intended to give a glimpse into each. In laymans terms, I am a fourth year undergraduate pursuing a B.S. in Computer Science at the University of California, Davis.
 
-## Features
+I worked as a research assistant in the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain during my junior year. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
 
-Journal is packed with powerful features to showcase your work:
+<!-- <div class="gallery" data-columns="3">
+    <img src="/images/outdoors/sunset.jpg">
+    <img src="/images/outdoors/track.jpg">
+    <img src="/images/outdoors/sunflowers.jpg">
+    <img src="/images/outdoors/plane.jpg">
+    <img src="/images/outdoors/flight.jpg">
+    <img src="/images/outdoors/hike.jpg">
+    <img src="/images/outdoors/clarks.jpg">
+    <img src="/images/outdoors/quote.jpg">
+</div> -->
+When I am not at the library, you can find me running around the city of Davis, preparing for my second marathon. For the past three years, I have coached Cross Country and Track at Harper Middle school in Davis. Outside of running, I love the outdoors - my two newest endeavors include rock climbing and mountain biking.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
-
-## Get Index
-
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
-
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+When I need a break from using my left brain, I enjoy writing, practicing my French, or re-reading my favorite books, *We Are All Completely Beside Ourselves* and *Steppenwolf*. I am also a Co-Curator for TEDxUCDavis 2020. We are holding an online conference under the theme of "What's Ne(x)t?" in the Spring of 2021. Check out our [website](http://www.tedxucdavis.org) for more information.

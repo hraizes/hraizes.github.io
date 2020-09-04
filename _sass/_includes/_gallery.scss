@@ -8,6 +8,8 @@
 	visibility: hidden;
 	position: relative;
 	margin: 20px auto;
+	width: 65%; 
+	height: 65%;
 
 	@include mq(tabletp) {
 		margin: 30px auto;

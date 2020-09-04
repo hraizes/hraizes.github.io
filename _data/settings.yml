@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Haley Raizes
-  site_tagline: A blog and portfolio to share all things that make me smile
+  site_tagline: A blogfolio to share all things that make me smile, including running many miles
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -29,6 +29,7 @@ contact_settings:
 social_settings:
   github_url: 'https://github.com/hraizes'
   linkedin_url: 'https://www.linkedin.com/in/hraizes/'
+  instagram_url: 'https://www.instagram.com/haleydaley/'
 
 color_settings:
   background_color: '#ffffff'
