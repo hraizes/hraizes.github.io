@@ -14,4 +14,4 @@ When I am not at the library, you can find me running around the city of Davis, 
 
 When I need a break from using my left brain, I enjoy writing, practicing my French, or re-reading my favorite books, *We Are All Completely Beside Ourselves* and *Steppenwolf*. I am also a Co-Curator for TEDxUCDavis 2020. We are holding an online conference under the theme of "What's Ne(x)t?" in the Spring of 2021. Check out our [website](http://www.tedxucdavis.org) for more information.
 
-If I haven't bored you yet, feel free to take a look around.
+If I haven't bored you yet, feel free to take a look around my site. It's an ongoing project but you can find past adventure stories under blog and passion projects under portfolio. More information on my past work experiences can be found in my resume or on LinkedIn.
