@@ -5,7 +5,12 @@ date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<div class="gallery" data-columns="3">
+    <img src="/images/demo/demo-portrait.jpg">
+    <img src="/images/demo/demo-landscape.jpg">
+    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/demo/demo-landscape-2.jpg">
+</div>
 
 ## Demo content
 

@@ -1,11 +1,16 @@
 ---
-title: Haleu Raizes
+title: Haley Raizes
 subtitle: a blogfolio
 description: A blog and portfolio to share all things that make me smile
 featured_image: /images/haley/haley.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<div class="gallery" data-columns="3">
+    <img src="/images/demo/demo-portrait.jpg">
+    <img src="/images/demo/demo-landscape.jpg">
+    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/demo/demo-landscape-2.jpg">
+</div>
 
 ## Features
 
