@@ -1,7 +1,7 @@
-site: Journal Jekyll Theme
+site: Haley Raizes Blogfolio
 
-url: http://127.0.0.1:4000
-baseurl: 
+url:
+baseurl:
 
 collections:
   pages:
