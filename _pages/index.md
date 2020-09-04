@@ -10,16 +10,6 @@ The name of my website has two interpretations: Haley Smiles and Haley's Miles. 
 
 I worked as a research assistant in the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain during my junior year. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
 
-<!-- <div class="gallery" data-columns="3">
-    <img src="/images/outdoors/sunset.jpg">
-    <img src="/images/outdoors/track.jpg">
-    <img src="/images/outdoors/sunflowers.jpg">
-    <img src="/images/outdoors/plane.jpg">
-    <img src="/images/outdoors/flight.jpg">
-    <img src="/images/outdoors/hike.jpg">
-    <img src="/images/outdoors/clarks.jpg">
-    <img src="/images/outdoors/quote.jpg">
-</div> -->
 When I am not at the library, you can find me running around the city of Davis, preparing for my second marathon. For the past three years, I have coached Cross Country and Track at Harper Middle school in Davis. Outside of running, I love the outdoors - my two newest endeavors include rock climbing and mountain biking.
 
 When I need a break from using my left brain, I enjoy writing, practicing my French, or re-reading my favorite books, *We Are All Completely Beside Ourselves* and *Steppenwolf*. I am also a Co-Curator for TEDxUCDavis 2020. We are holding an online conference under the theme of "What's Ne(x)t?" in the Spring of 2021. Check out our [website](http://www.tedxucdavis.org) for more information.
