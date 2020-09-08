@@ -1,7 +1,7 @@
 ---
 title: 'How Ridgeline Helped Me Step Off the Hamster Wheel'
 date: 2020-09-04 00:00:00
-featured_image: '/images/outdoors/plane.jpg'
+featured_image: '/images/outdoors/sunset.jpg'
 excerpt: "Every morning, I used to ask myself the same question: How can I spend my time today so that I will be rewarded for it in the future? By the end of my junior year, I began to wonder, will I live my whole life spending time as though it were infinite? I feared the inevitability of never enjoying a day without a buzzing ultimatum."
 ---
 
