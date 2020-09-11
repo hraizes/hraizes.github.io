@@ -23,6 +23,8 @@ Regardless if you are searching or climbing, both involve movement. We all exert
 
 You will know you are on the right mountain when you wake up with no desire to be someone or somewhere else. When you truly love something, be it a person, hobby, or work, you never wonder if there exists a better view elsewhere. A true writer still writes even if their books are never read by another human eye. A true singer still sings even if their voice is never heard by another human ear. And, a true traveler still adventures around the world even if their photos never receive a single like on Instagram.
 
+<img src="/images/haley/haley-marathon.jpg" alt="A picture after I just finished my first marathon in Sacramento, CA" width="45%" height="45%">
+
 ### What it Means to Love the Climb
 I experienced a lot of emotions over the span of a thousand miles. Some were familiar and enjoyable, such as the euphoria from adrenaline or the satisfaction from completing another run. However, I often experienced emotions that were not as enjoyable or familiar. When these emotions manifest, my initial reaction is to turn back altogether. The feeling of exhaustion on mile ten challenges my legs to keep going; guilt from taking a day off challenges me not to miss another. And, when I compare myself to those who can run faster or further, I doubt whether I am actually “good enough” to be a “real runner”. But, when you love the climb, you are willing to run through and experience all emotions because the presence of euphoria only exists relative to the presence of discomfort.
 
