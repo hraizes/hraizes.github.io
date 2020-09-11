@@ -30,8 +30,6 @@ Every mountain presents a similar array of emotions, and on every trail lies the
 
 When we find the mountain to which we want to dedicate our time each day, we are making the decision to give ourselves completely to the climb. Doing so shifts the center of attention from the climber or summit to the ground below. I’ve found that this shift not only liberates us from the weight of self-expectations, but actually allows us to surpass them, moving beyond what we thought was possible. When you truly love the climb, the failure of any pursuit does not diminish the joy in working towards it.
 
-<img src="/images/haley/20Miler.jpg" alt="The last mile of my 20 mile race in Clarksburg" width="25%" height="25%">
-
 ### This is About Us
 In our arrogance, we often believe that some mountains are inherently more valuable than others. However, the climbs of others elsewhere often ease the burden of our own. I run to the music of a musician on a phone built by an engineer, while wearing shoes made by a designer that carry me across a road paved by a construction worker. Our individual climbs are not exclusive to those of our fellow climbers; this inclusivity is what empowers humanity to take on steeper and longer trails that were once thought impossible.
 
