@@ -7,7 +7,7 @@ featured_image: /images/haley/haley.jpg
 
 ### At A Glance
 
-<div class="gallery" data-columns="3">
+<div class="gallery" data-columns="1">
     <img src="/images/haley/haley-flight.jpg">
     <img src="/images/haley/haley-ted.jpg">
     <img src="/images/haley/haley-20-miles.jpg">
