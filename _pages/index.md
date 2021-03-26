@@ -13,12 +13,12 @@ featured_image: /images/haley/haley.jpg
     <img src="/images/haley/haley-20-miles.jpg">
 </div>
 
-The name of my website has two interpretations: Haley Smiles and Haley's Miles. I have collected many "hats" over the years and this website is intended to give a glimpse into each. In laymans terms, I am a fourth year undergraduate pursuing a B.S. in Computer Science at the University of California, Davis.
+The name of my website has two interpretations: Haley Smiles and Haley's Miles. I have collected many "hats" over the years and this website is intended to give a glimpse into each. In laymans terms, I am a fourth year undergraduate pursuing a B.S. in Computer Science at the University of California, Davis. I will be graduating in the June of 2021 and plan to move up to Tahoe during the summer to start full time as a Product Engineer at [Ridgeline](https://www.ridgelineapps.com).
 
 I worked as a research assistant in the [Cognition in Context Lab](https://cognitionincontext.ucdavis.edu) at the Center for Mind and Brain during my junior year. My main topics of interest include the development of creative problem solving, resilience, and delayed gratification during childhood.
 
-When I am not at the library, you can find me running around the city of Davis, preparing for my second marathon. For the past three years, I have coached Cross Country and Track at Harper Middle school in Davis. Outside of running, I love the outdoors - my two newest endeavors include rock climbing and mountain biking.
+I have coached Cross Country and Track at Harper Middle school in Davis for the past 3 years. During the pandemic, I coached virtually and was forced to get creative to keep the season engaging, check out how I did so [here](https://www.davisenterprise.com/sports/harper-harriers-map-out-a-unique-thank-you-to-workers/). Outside of running, I love all things outdoors - my two newest endeavors include rock climbing and mountain biking.
 
-When I need a break from using my left brain, I enjoy writing, practicing my French, or re-reading my favorite books, *We Are All Completely Beside Ourselves* and *Steppenwolf*. I am also a Co-Curator for TEDxUCDavis 2021. We are holding an online conference in the Spring of 2021. Check out our [website](http://www.tedxucdavis.org) for more information. Applications to apply as a speaker will be released in Fall 2020.
+When I need a break from using my left brain, I enjoy writing, practicing my French, or re-reading my favorite books, *We Are All Completely Beside Ourselves* and *Steppenwolf*. I am also a Co-Curator for TEDxUCDavis 2021. We are holding an online conference on April 10-11th. You can regitser for a free ticket on our [website](http://www.tedxucdavis.org).
 
-If I haven't bored you yet, feel free to take a look around my site. It's an ongoing project but you can find articles about various adventures and life lessons under Blog and passion projects under Portfolio. More information on my past work experiences can be found under Resume or on LinkedIn.
+Feel free to take a look around my site. It's an ongoing project but you can find articles about various adventures and life lessons under Blog and passion projects under Portfolio. More information on my past work experiences can be found under Resume or on LinkedIn.
